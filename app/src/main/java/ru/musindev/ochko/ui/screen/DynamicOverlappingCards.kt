@@ -1,4 +1,4 @@
-package ru.musindev.ochko
+package ru.musindev.ochko.ui.screen
 
 import androidx.compose.foundation.Image
 import androidx.compose.runtime.Composable
