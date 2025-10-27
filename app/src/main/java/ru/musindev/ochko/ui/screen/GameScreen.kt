@@ -44,12 +44,7 @@ fun GameScreen(modifier: Modifier = Modifier) {
             DynamicOverlappingCards(
                 cardResIds = listOf(
                     R.drawable.img_6c,
-                    R.drawable.img_6d,
-                    R.drawable.img_6s,
-                    R.drawable.img_7c,
-                    R.drawable.img_7d,
-                    R.drawable.img_7s,
-
+                    R.drawable.img_6d
                     ),
                 modifier = Modifier
                     .fillMaxWidth()
